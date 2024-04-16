@@ -1,0 +1,12 @@
+/*Área de definição de regras @*/
+@charset "UTF-8";
+body{
+    h1 {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        color: aquamarine;
+    }
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 1em;
+color: rgb(38, 92, 78);
+background-color: lightgray;
+}
