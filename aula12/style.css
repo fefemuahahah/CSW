@@ -1,0 +1,23 @@
+body{
+    background: rgb(6,100,164);
+    background: linear-gradient(90deg, rgba(6,100,164,1) 0%, rgba(5,177,191,1) 35%, rgba(18,161,231,1) 100%);
+    
+    
+}
+h1{
+    color: #0664a4;
+}
+h2{
+    color: #05b1bf;
+}
+
+.quadro{
+    border: 2px white solid;
+    text-align: center;
+    background-color: white;
+    width: 600px;
+    margin: auto;
+    border-radius: 10px;
+    height: 380px;
+    box-shadow: #0664a4 20px;
+}
